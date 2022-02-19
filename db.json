@@ -6,6 +6,13 @@
     "label": "Produit",
     "description": "ooooh description !!",
     "price": 82.12
+  },
+      {
+    "id": 2,
+    "category": 1,
+    "label": "Shoe",
+    "description": "Yeeees description !!",
+    "price": 150.12
   }
   ]
 }
