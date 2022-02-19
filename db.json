@@ -1,0 +1,11 @@
+{
+  "products": [
+  {
+    "id": 1,
+    "category": 1,
+    "label": "Produit",
+    "description": "ooooh description !!",
+    "price": 82.12
+  }
+  ]
+}
