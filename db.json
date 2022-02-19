@@ -3,11 +3,11 @@
   {
     "id": 1,
     "category": 1,
-    "label": "Produit",
+    "label": "Sandwich",
     "description": "ooooh description !!",
     "price": 82.12
   },
-      {
+  {
     "id": 2,
     "category": 1,
     "label": "Shoe",
